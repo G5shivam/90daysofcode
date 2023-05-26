@@ -1,4 +1,4 @@
-
+// extending multiple thread using single run methods
 import java.util.*;
 
 class MyThread1 extends Thread{
