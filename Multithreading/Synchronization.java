@@ -1,6 +1,6 @@
 package Multithreading;
 
-
+// synchronization over whole methods
 
 
 class Car implements Runnable
