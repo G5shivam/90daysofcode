@@ -13,7 +13,7 @@ public class Reversal {
             array[n-i-1] = temp;
         }
 
-        System.out.println("Reversal of an array is:");
+        System.out.println("Reversall of an array is:");
         for(int i=0; i<n; i++){
             System.out.print(array[i]+" ");
         }
