@@ -19,7 +19,7 @@ public class twoSum {
     System.out.println("Enter the target element in an array");
     int target = sc.nextInt();
 
-    // Create a hashmap where key is arr[i] and value is i
+    // Create a hashmap where keys is arr[i] and value is i
     HashMap<Integer, Integer> map = new HashMap<>();
     for(int i=0; i<n; i++){
         map.put(arr[i], i);
