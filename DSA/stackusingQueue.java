@@ -1,4 +1,4 @@
-// Implementation of stack using the queue data structure
+// Implementations of stack using the queue data structure
 // time complexity add - O(n)
 // time complexity remove - O(1)
 // space complexity - O(n)
