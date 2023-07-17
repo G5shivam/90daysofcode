@@ -20,7 +20,7 @@ class stackImplementation {
          System.out.println("The topmost element in the stack after deletion is: "+stack1.peek());
 
          // Search an element in the stack
-         // Search function returns -1 when the element is not present in the stack
+         // Search function return -1 when the element is not present in the stack
          System.out.println("Element 1 is present at the the position: "+stack1.search(1));
 
          // Check whether the stack is empty or not
