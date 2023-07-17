@@ -20,7 +20,7 @@ public class typesOfMap {
 
         System.out.println("LinkedHashmap class map looks like:"+map1);
 
-        // sorted output on the basis of the keys
+        // sorted output on the basis of the key
         TreeMap <Integer, String> map2 = new TreeMap<>();
         map2.put(3, "Priya");
         map2.put(1, "Ajay");
